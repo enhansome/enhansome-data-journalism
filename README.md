@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,220 | 🐛 104 | 📅 2026-06-30
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,220 | 🐛 104 | 📅 2026-06-30 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -115,7 +115,7 @@ Datasets
 
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,132 | 🐛 159 | 📅 2026-08-04
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
 
@@ -145,11 +145,11 @@ Learning
 
 ### Data analysis
 
-*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 943 | 🐛 45 | 🌐 PowerShell | 📅 2026-06-11*
+*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 943 | 🐛 46 | 🌐 PowerShell | 📅 2026-06-11*
 
 Tools
 
-* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,501 | 🐛 90 | 🌐 Python | 📅 2025-07-29
+* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,503 | 🐛 90 | 🌐 Python | 📅 2025-07-29
 * [jupyter](https://jupyter.org/) - see also [examples from Winny de Jong's Python for Journalists](https://github.com/winnydejong/pythonforjournalists) ⭐ 64 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-07-29 and [*Data Journalism Handbook* chapter on accounting for methods in data journalism](https://datajournalism.com/read/handbook/two/working-with-data/accounting-for-methods-in-data-journalism-spreadsheets-scripts-and-programming-notebooks)
 * [calc](https://www.libreoffice.org/discover/calc/)
 * [ethercalc](https://ethercalc.net/)
@@ -166,7 +166,7 @@ Learning
 
 * [databasic.io](https://databasic.io/en/) - "a suite of easy-to-use web tools for beginners that introduce concepts of working with data"
 * [How to 'interview' a big pile of data](https://training.npr.org/2015/10/15/what-to-do-with-a-big-pile-of-data/) - NPR
-* [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) ⭐ 1,300 | 🐛 2 | 📅 2022-04-07 - ProPublica
+* [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) ⭐ 1,299 | 🐛 2 | 📅 2022-04-07 - ProPublica
 * [WSJ data challenge](http://wsjdata.github.io/pages/data-challenge/) - "designed to test proficiency in tasks related to news and data"
 * [spreadsheets resource collection](https://www.journaliststoolbox.org/2023/01/04/spreadsheets/) - journalist's toolbox
 * [six tips for better spreadsheets](https://www.nature.com/articles/d41586-022-02076-1) - nature.com
@@ -178,14 +178,14 @@ Learning
 
 ### Data visualisation
 
-*see also [awesome dataviz](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,379 | 🐛 38 | 📅 2024-01-26*
+*see also [awesome dataviz](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,380 | 🐛 38 | 📅 2024-01-26*
 
 Tools
 
 * [datawrapper](https://www.datawrapper.de/) - free/ open source. See also [materials for datawrapper workshops](https://blog.datawrapper.de/datawrapper-training-materials-for-workshops/) and [datastori.es podcast episode](https://datastori.es/117-datawrapper-with-lisa-c-rost-and-gregor-aisch/)
 * [raw graphs](https://rawgraphs.io/) - free/open source. See also [tutorials](https://www.rawgraphs.io/learning) and [datastori.es podcast episode](https://datastori.es/91-visualizing-data-with-raw/)
 * [gephi](https://gephi.org/) - free/open source
-* [d3](https://d3js.org/) - see also [Amelia Wattenberger's Intro to D3.js](https://wattenberger.com/blog/d3) and [awesome d3](https://github.com/wbkd/awesome-d3) ⭐ 5,313 | 🐛 5 | 📅 2023-01-13
+* [d3](https://d3js.org/) - see also [Amelia Wattenberger's Intro to D3.js](https://wattenberger.com/blog/d3) and [awesome d3](https://github.com/wbkd/awesome-d3) ⭐ 5,314 | 🐛 5 | 📅 2023-01-13
 * [flourish](https://flourish.studio/) - free for personal and educational use
 * [ObservableHQ](https://observablehq.com/) - open source notebooks for analysing, exploring and visualising data
 * [data visualisation catalogue](https://datavizcatalogue.com/)
@@ -195,7 +195,7 @@ Tools
 
 Learning
 
-* [ProPublica Data Style Guide](https://github.com/propublica/guides/blob/master/news-apps.md) ⭐ 1,300 | 🐛 2 | 📅 2022-04-07 - "typographic and technical best practices"
+* [ProPublica Data Style Guide](https://github.com/propublica/guides/blob/master/news-apps.md) ⭐ 1,299 | 🐛 2 | 📅 2022-04-07 - "typographic and technical best practices"
 
 ## Data journalism awards, prizes and grants
 
@@ -327,4 +327,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
