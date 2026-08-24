@@ -65,6 +65,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "awesome public datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-23T23:52:17Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78584
+              }
+            }
+          ],
+          "description": "Datasets\nData settings",
+          "node_type": "group",
+          "title": "Data gathering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "dedupe",
               "description": null,
               "children": [],
@@ -92,18 +114,70 @@
                 "repo": "pythonforjournalists",
                 "stars": 64
               }
+            },
+            {
+              "node_type": "item",
+              "title": "A Guide to Bulletproofing Your Data",
+              "description": "ProPublica",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8206095,
+                "language": null,
+                "last_commit": "2022-04-07T16:45:56Z",
+                "owner": "propublica",
+                "repo": "guides",
+                "stars": 1299
+              }
             }
           ],
           "description": "See also awesome-csv\nTools\nLearning",
           "node_type": "group",
           "title": "Data analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "d3",
+              "description": "see also Amelia Wattenberger's Intro to D3.js and awesome d3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35890808,
+                "language": null,
+                "last_commit": "2023-01-13T16:10:34Z",
+                "owner": "wbkd",
+                "repo": "awesome-d3",
+                "stars": 5318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProPublica Data Style Guide",
+              "description": "\"typographic and technical best practices\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8206095,
+                "language": null,
+                "last_commit": "2022-04-07T16:45:56Z",
+                "owner": "propublica",
+                "repo": "guides",
+                "stars": 1299
+              }
+            }
+          ],
+          "description": "see also awesome dataviz\nTools\nLearning",
+          "node_type": "group",
+          "title": "Data visualisation"
         }
       ],
       "title": "Data journalism practices"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:30:14.099Z",
+    "last_updated": "2026-08-24T14:45:06.041Z",
     "original_repository": "jwyg/awesome-data-journalism",
     "original_repository_id": 585697509,
     "original_repository_sha": "ebe7656890af08019e80783c875e7e5489ed5c88",
