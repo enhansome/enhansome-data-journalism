@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-27T22:25:41Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78670
+                "stars": 78676
               }
             }
           ],
@@ -177,7 +177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:53.988Z",
+    "last_updated": "2026-08-27T22:28:45.182Z",
     "original_repository_info": {
       "archived": false,
       "id": 585697509,
