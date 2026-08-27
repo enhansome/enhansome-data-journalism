@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-25T16:12:04Z",
+                "last_commit": "2026-08-26T21:15:40Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78646
+                "stars": 78670
               }
             }
           ],
@@ -97,7 +97,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4506
+                "stars": 4508
               }
             },
             {
@@ -177,9 +177,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:33:52.536Z",
-    "original_repository": "jwyg/awesome-data-journalism",
-    "original_repository_id": 585697509,
+    "last_updated": "2026-08-27T11:39:53.988Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 585697509,
+      "language": null,
+      "last_commit": "2024-03-03T10:40:21Z",
+      "owner": "jwyg",
+      "repo": "awesome-data-journalism",
+      "stars": 68
+    },
     "original_repository_sha": "ebe7656890af08019e80783c875e7e5489ed5c88",
     "enhanced_repository": "enhansome/enhansome-data-journalism",
     "enhanced_repository_description": null,
