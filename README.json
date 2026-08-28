@@ -18,7 +18,8 @@
                 "owner": "dannguyen",
                 "repo": "journalism-syllabi",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "jwyg",
                 "repo": "data-journalism-courses",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "propublica",
                 "repo": "data-institute-2022",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             }
           ],
           "description": "Further tool-specific tutorials are listed below in the working with data section.",
@@ -72,11 +75,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:25:41Z",
+                "last_commit": "2026-08-28T16:22:22Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78676
-              }
+                "stars": 78692
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             }
           ],
           "description": "Datasets\nData settings",
@@ -97,8 +101,9 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4508
-              }
+                "stars": 4509
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             },
             {
               "node_type": "item",
@@ -113,7 +118,8 @@
                 "owner": "winnydejong",
                 "repo": "pythonforjournalists",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             },
             {
               "node_type": "item",
@@ -128,7 +134,8 @@
                 "owner": "propublica",
                 "repo": "guides",
                 "stars": 1299
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             }
           ],
           "description": "See also awesome-csv\nTools\nLearning",
@@ -150,7 +157,8 @@
                 "owner": "wbkd",
                 "repo": "awesome-d3",
                 "stars": 5318
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "propublica",
                 "repo": "guides",
                 "stars": 1299
-              }
+              },
+              "first_seen": "2026-08-28T22:31:57.245Z"
             }
           ],
           "description": "see also awesome dataviz\nTools\nLearning",
@@ -177,7 +186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:28:45.182Z",
+    "last_updated": "2026-08-28T22:31:57.245Z",
     "original_repository_info": {
       "archived": false,
       "id": 585697509,
@@ -185,7 +194,7 @@
       "last_commit": "2024-03-03T10:40:21Z",
       "owner": "jwyg",
       "repo": "awesome-data-journalism",
-      "stars": 68
+      "stars": 69
     },
     "original_repository_sha": "ebe7656890af08019e80783c875e7e5489ed5c88",
     "enhanced_repository": "enhansome/enhansome-data-journalism",
