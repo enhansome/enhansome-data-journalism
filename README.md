@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,957 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,222 | 🐛 106 | 📅 2026-09-02
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 502,957 | 🐛 106 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 503,222 | 🐛 106 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -114,7 +114,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 Datasets
 
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,804 | 🐛 157 | 📅 2026-09-03
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,817 | 🐛 158 | 📅 2026-09-03
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
@@ -182,7 +182,7 @@ Learning
 
 Tools
 
-* [d3](https://d3js.org/) - see also [Amelia Wattenberger's Intro to D3.js](https://wattenberger.com/blog/d3) and [awesome d3](https://github.com/wbkd/awesome-d3) ⭐ 5,317 | 🐛 5 | 📅 2023-01-13
+* [d3](https://d3js.org/) - see also [Amelia Wattenberger's Intro to D3.js](https://wattenberger.com/blog/d3) and [awesome d3](https://github.com/wbkd/awesome-d3) ⭐ 5,316 | 🐛 5 | 📅 2023-01-13
 * [datawrapper](https://www.datawrapper.de/) - free/ open source. See also [materials for datawrapper workshops](https://blog.datawrapper.de/datawrapper-training-materials-for-workshops/) and [datastori.es podcast episode](https://datastori.es/117-datawrapper-with-lisa-c-rost-and-gregor-aisch/)
 * [raw graphs](https://rawgraphs.io/) - free/open source. See also [tutorials](https://www.rawgraphs.io/learning) and [datastori.es podcast episode](https://datastori.es/91-visualizing-data-with-raw/)
 * [gephi](https://gephi.org/) - free/open source
@@ -327,4 +327,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

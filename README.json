@@ -99,10 +99,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-03T21:42:22Z",
-                "open_issues": 157,
+                "open_issues": 158,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78804,
+                "stars": 78817,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5317,
+                "stars": 5316,
                 "topics": [
                   "charts",
                   "d3js",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:31:54.584Z",
+    "last_updated": "2026-09-05T15:26:48.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
