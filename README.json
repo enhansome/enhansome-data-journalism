@@ -102,7 +102,7 @@
                 "open_issues": 158,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78817,
+                "stars": 78826,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -132,7 +132,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-29T00:18:20Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
                 "stars": 4510,
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:26:48.983Z",
+    "last_updated": "2026-09-06T15:37:59.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
@@ -269,7 +269,7 @@
       "open_issues": 4,
       "owner": "jwyg",
       "repo": "awesome-data-journalism",
-      "stars": 69,
+      "stars": 70,
       "topics": [
         "awesome",
         "awesome-list",
