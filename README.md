@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,920 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,181 | 🐛 106 | 📅 2026-09-02
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 503,920 | 🐛 106 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,181 | 🐛 106 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -114,7 +114,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 Datasets
 
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,845 | 🐛 158 | 📅 2026-09-03
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,868 | 🐛 158 | 📅 2026-09-08
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
@@ -327,4 +327,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
