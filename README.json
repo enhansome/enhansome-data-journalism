@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "dannguyen",
                 "repo": "journalism-syllabi",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "data-journalism",
                   "journalism",
@@ -102,7 +102,7 @@
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79039,
+                "stars": 79056,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -135,7 +135,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4511,
+                "stars": 4512,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:59:43.273Z",
+    "last_updated": "2026-09-20T16:22:33.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
@@ -269,7 +269,7 @@
       "open_issues": 4,
       "owner": "jwyg",
       "repo": "awesome-data-journalism",
-      "stars": 71,
+      "stars": 72,
       "topics": [
         "awesome",
         "awesome-list",
