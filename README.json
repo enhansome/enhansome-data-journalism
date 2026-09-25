@@ -102,7 +102,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79137,
+                "stars": 79153,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -135,7 +135,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4514,
+                "stars": 4515,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5323,
+                "stars": 5322,
                 "topics": [
                   "charts",
                   "d3js",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:26:59.698Z",
+    "last_updated": "2026-09-25T17:25:13.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
