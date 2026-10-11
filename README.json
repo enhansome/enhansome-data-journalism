@@ -102,7 +102,7 @@
                 "open_issues": 163,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79416,
+                "stars": 79428,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:25:21.086Z",
+    "last_updated": "2026-10-11T17:44:37.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
