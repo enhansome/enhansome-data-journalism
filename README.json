@@ -98,11 +98,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:54:00Z",
+                "last_commit": "2026-10-20T17:04:40Z",
                 "open_issues": 165,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79630,
+                "stars": 79647,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -187,7 +187,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -242,7 +242,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:47:43.015Z",
+    "last_updated": "2026-10-20T17:25:35.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
