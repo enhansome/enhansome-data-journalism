@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,831 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,271 | 🐛 105 | 📅 2026-09-02
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 521,831 | 🐛 105 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 522,271 | 🐛 105 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -114,7 +114,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 Datasets
 
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,647 | 🐛 165 | 📅 2026-10-20
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,662 | 🐛 165 | 📅 2026-10-21
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
@@ -145,11 +145,11 @@ Learning
 
 ### Data analysis
 
-*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 956 | 🐛 42 | 🌐 PowerShell | 📅 2026-06-11*
+*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 956 | 🐛 43 | 🌐 PowerShell | 📅 2026-06-11*
 
 Tools
 
-* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,518 | 🐛 92 | 🌐 Python | 📅 2025-07-29
+* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,519 | 🐛 92 | 🌐 Python | 📅 2025-07-29
 * [jupyter](https://jupyter.org/) - see also [examples from Winny de Jong's Python for Journalists](https://github.com/winnydejong/pythonforjournalists) ⭐ 64 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-07-29 and [*Data Journalism Handbook* chapter on accounting for methods in data journalism](https://datajournalism.com/read/handbook/two/working-with-data/accounting-for-methods-in-data-journalism-spreadsheets-scripts-and-programming-notebooks)
 * [calc](https://www.libreoffice.org/discover/calc/)
 * [ethercalc](https://ethercalc.net/)
@@ -327,4 +327,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
