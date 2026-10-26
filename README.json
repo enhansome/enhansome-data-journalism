@@ -98,11 +98,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-22T19:57:29Z",
+                "last_commit": "2026-10-26T02:26:18Z",
                 "open_issues": 165,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79739,
+                "stars": 79755,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T16:41:06.962Z",
+    "last_updated": "2026-10-26T18:47:36.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
