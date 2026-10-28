@@ -98,11 +98,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-26T21:11:43Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-28T16:46:19Z",
+                "open_issues": 166,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79792,
+                "stars": 79812,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -135,7 +135,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4521,
+                "stars": 4523,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -187,7 +187,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -215,7 +215,7 @@
                 "open_issues": 6,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5326,
+                "stars": 5325,
                 "topics": [
                   "charts",
                   "d3js",
@@ -242,7 +242,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:09:32.978Z",
+    "last_updated": "2026-10-28T18:26:08.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
