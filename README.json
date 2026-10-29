@@ -102,7 +102,7 @@
                 "open_issues": 166,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79812,
+                "stars": 79843,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -187,7 +187,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1308,
+                "stars": 1309,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -242,7 +242,7 @@
                 "open_issues": 2,
                 "owner": "propublica",
                 "repo": "guides",
-                "stars": 1308,
+                "stars": 1309,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:31:57.245Z"
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:26:08.080Z",
+    "last_updated": "2026-10-29T18:35:59.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of publicly available, free/open source and open access resources for learning and doing data journalism. ",
@@ -269,7 +269,7 @@
       "open_issues": 7,
       "owner": "jwyg",
       "repo": "awesome-data-journalism",
-      "stars": 71,
+      "stars": 72,
       "topics": [
         "awesome",
         "awesome-list",
