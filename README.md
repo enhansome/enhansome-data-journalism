@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,871 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,372 | 🐛 104 | 📅 2026-09-02
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 535,871 | 🐛 103 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 536,372 | 🐛 104 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -114,7 +114,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 Datasets
 
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,078 | 🐛 169 | 📅 2026-11-12
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,104 | 🐛 169 | 📅 2026-11-13
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
@@ -149,7 +149,7 @@ Learning
 
 Tools
 
-* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,528 | 🐛 93 | 🌐 Python | 📅 2025-07-29
+* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,529 | 🐛 93 | 🌐 Python | 📅 2025-07-29
 * [jupyter](https://jupyter.org/) - see also [examples from Winny de Jong's Python for Journalists](https://github.com/winnydejong/pythonforjournalists) ⭐ 64 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-07-29 and [*Data Journalism Handbook* chapter on accounting for methods in data journalism](https://datajournalism.com/read/handbook/two/working-with-data/accounting-for-methods-in-data-journalism-spreadsheets-scripts-and-programming-notebooks)
 * [calc](https://www.libreoffice.org/discover/calc/)
 * [ethercalc](https://ethercalc.net/)
@@ -322,9 +322,9 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [List of data journalism resources from Global Investigative Journalism Network](https://gijn.org/data-journalism/) and [in Spanish](https://gijn.org/data-journalism/periodismo-de-datos/)
 * [Best practices for data journalism](https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf) - Media Development Investment Fund
 * [Quick Guide to Data Journalism](https://www.datacamp.com/blog/quick-guide-to-data-journalism) - datacamp
-* [Awesome interactive journalism](https://github.com/wbkd/awesome-interactive-journalism) ⭐ 1,998 | 🐛 5 | 📅 2019-11-20
+* [Awesome interactive journalism](https://github.com/wbkd/awesome-interactive-journalism) ⭐ 2,000 | 🐛 5 | 📅 2019-11-20
 * [Interactive news](https://docs.google.com/spreadsheets/u/0/d/1sSWytfD1N1nuXkry7IZyscahj9M8lX04XJWeqrdgDZk/pubhtml#) (spreadsheet no longer updated)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
