@@ -1,8 +1,8 @@
 # Awesome data journalism with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,372 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,836 | 🐛 104 | 📅 2026-09-02
 
-A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 536,372 | 🐛 104 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
+A [partial, curated list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 536,836 | 🐛 104 | 📅 2026-09-02 of publicly available, free/open source and open access resources for learning and doing data journalism.
 
 This repository builds on lists and collections of resources from the [first](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(ed4160fd-6009-4e4a-a7f0-d7a06f66e93f\).html) and [second editions](https://kclpure.kcl.ac.uk/portal/en/publications/the-data-journalism-handbook\(50e8f691-a1b8-447f-b73a-49ac5d082361\).html) of the open access [*Data Journalism Handbook*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook) and ongoing research on data journalism practices.
 
@@ -53,7 +53,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 
 *Further tool-specific tutorials are listed below in the [working with data](#working-with-data) section.*
 
-* [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2021-03-03
+* [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi) ⭐ 192 | 🐛 1 | 🌐 Python | 📅 2021-03-03
 * [Data Journalism University Courses and Programmes](https://github.com/jwyg/data-journalism-courses) ⭐ 77 | 🐛 15 | 📅 2023-01-10
 * Freely accessible materials from [ProPublica's Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute) – [2022](https://github.com/propublica/data-institute-2022) ⭐ 6 | 🐛 0 | 📅 2022-07-22, [2021](https://github.com/propublica/data-institute-2021) ⭐ 13 | 🐛 0 | 📅 2021-07-16, [2019](https://github.com/propublica/data-institute-2019) ⭐ 49 | 🐛 0 | 📅 2019-08-05, [2018](https://github.com/propublica/data-institute-2018) ⭐ 28 | 🐛 1 | 📅 2022-08-24
 * [Doing Journalism with Data: First Steps, Skills and Tools](https://datajournalism.com/watch/doing-journalism-with-data-first-steps-skills-and-tools) and [other courses from datajournalism.com](https://datajournalism.com/watch)
@@ -114,7 +114,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 Datasets
 
 * [awesome public datasets
-  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,104 | 🐛 169 | 📅 2026-11-13
+  ](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,114 | 🐛 169 | 📅 2026-11-14
 * [data is plural](https://www.data-is-plural.com/) - "a weekly newsletter of useful/curious datasets"
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
@@ -145,7 +145,7 @@ Learning
 
 ### Data analysis
 
-*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 959 | 🐛 61 | 🌐 PowerShell | 📅 2026-06-11*
+*See also [awesome-csv](https://github.com/secretGeek/awesomeCSV) ⭐ 959 | 🐛 63 | 🌐 PowerShell | 📅 2026-06-11*
 
 Tools
 
@@ -178,7 +178,7 @@ Learning
 
 ### Data visualisation
 
-*see also [awesome dataviz](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,460 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11*
+*see also [awesome dataviz](https://github.com/javierluraschi/awesome-dataviz) ⭐ 4,461 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11*
 
 Tools
 
@@ -327,4 +327,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
